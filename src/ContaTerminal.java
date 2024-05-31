@@ -5,7 +5,6 @@ import java.util.Scanner;
 	*Simulação de Conta Terminal onde recebe variáveis atráves do terminal utilizando a classe scanner e posteriormente exibindo os dados capturados
 	* 
 	* <b>Note:</b> Projeto Módulo "Dominango a Linguagem de Programaação Java" do BootCamp Santander 2024 - Backend com Java"
-	*
 	* @author  Ëverton Moraes
 	* @version 1.0
 	* @since   31/05/2024
