@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Conta Terminal","h":"class ContaTerminal","d":"Section","u":"ContaTerminal.html#conta-terminal-heading"}];updateSearchResults();
