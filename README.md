@@ -2,9 +2,9 @@
  
  **Este é a entrega do projeto do módulo "Simulando uma Conta Bancária Através Do Terminal/Console"**  | 
  --- |
-
-[Documentação do Projeto Desenvolvido](https://evertonsmoraes.github.io/projeto-simulador-conta-bancaria-terminal/)
- #### Repositório do Projeto Proposto: <https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe>
+ 
+ <a href="https://evertonsmoraes.github.io/projeto-simulador-conta-bancaria-terminal/" target="_blank">Documentação do Projeto Desenvolvido</a>
+ #### Repositório do Projeto Proposto: <a href="https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe" target="_blank">https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe</a>
 
 **Abaixo replicação da descrição do projeto**
 <table>
@@ -13,7 +13,7 @@
 www.dio.me
 
 **Autores**
-* [Gleyson Sampaio](https://github.com/glysns)
+* <a href="https://github.com/glysns" target="_blank">Gleyson Sampaio</a></li>
 
 ## Sintaxe - Desafio
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
