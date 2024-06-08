@@ -4,7 +4,7 @@
  --- |
  
  <a href="https://evertonsmoraes.github.io/projeto-simulador-conta-bancaria-terminal/" target="_blank">Documentação do Projeto Desenvolvido</a>
- #### Repositório do Projeto Proposto:  <a href="https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe" target="_blank">[Documentação do Projeto Desenvolvido](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)</a>
+ #### Repositório do Projeto Proposto: <a href="https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe" target="_blank">https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe</a>
 
 **Abaixo replicação da descrição do projeto**
 <table>
